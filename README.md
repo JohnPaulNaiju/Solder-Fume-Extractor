@@ -1,4 +1,4 @@
-## Solder-Fume-Extractor
+## Solder-Fume-Extractor 🔌
 
 ![WhatsApp Image 2025-08-05 at 11 45 06 PM](https://github.com/user-attachments/assets/ecc780f0-fdf5-48e0-a7ef-05b838e395db)
 
