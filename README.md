@@ -10,7 +10,7 @@
 * 120mm activated carbon filter
 
 ### Steps:
-1. Print the parts given (3D files available in this repo) using PLA.
+1. Print the parts given (.3mf 3D files available in this repo) using PLA.
 2. Set print settings as 0.2mm 2 wall, 15% infill.
 3. Put the filter inside the case first.
 4. Then put the divider and then put the fan.
